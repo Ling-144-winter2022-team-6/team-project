@@ -1,6 +1,6 @@
 # CTK Replication
 
-Jackson Confer, Sarah Lee
+Jackson Confer, Sarah Lee, Emilio Gonzlez
 
 This folder currently contains 4 files:
 
